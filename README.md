@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### Hi there, I'm Engin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ✔ I am a MSc. student in Middle East Technical University. I am focused on data science (DS), artificial intelligence (AI) and machine learning (ML). 
 
-🔭 I’m currently working on Data Science!
+🔭 Completed all coursework for Master’s program; currently writing thesis. 
 
 📍 Please don't hesitate to contact me! 😉
 
