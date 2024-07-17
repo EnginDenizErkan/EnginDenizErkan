@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=boranozdemir&label=Profile%20views&color=0e75b6&style=flat" alt="EnginDenizErkan" /> </p>
+
 <br />
 
 
