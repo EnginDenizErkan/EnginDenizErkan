@@ -40,18 +40,17 @@ Here are some ideas to get you started:
 [<img align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />][cprogramming]
 [<img align="left" alt="Matlab" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />][matlab]
 [<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-[<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />][github]
 [<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />][git]
 [<img align="left" alt="MongoDB" width="50px" src="https://smyl.es/wurdp/assets/mongodb.png" />][mongodb]
 [<img align="left" alt="MySQL" width="50px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />][mysql]
-<br/>
+[<img align="left" alt="Pandas" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />][pandas]
+[<img align="left" alt="NumPy" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" />][numpy]
+[<img align="left" alt="PyTorch" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" />][pytorch]
 [<img align="left" alt="Tensorflow" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" />][tensorflow]
 [<img align="left" alt="Scikit-learn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />][scikit-learn]
 [<img align="left" alt="Apache Spark" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />][apache-spark]
 [<img align="left" alt="Streamlit" width="50px" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" />][streamlit]
-[<img align="left" alt="Pandas" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />][pandas]
-[<img align="left" alt="NumPy" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" />][numpy]
-[<img align="left" alt="PyTorch" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" />][pytorch]
+
 
 <br/>
 <br/>
@@ -63,7 +62,6 @@ Here are some ideas to get you started:
 [python]: https://www.python.org
 [cprogramming]: https://www.cprogramming.com/
 [vscode]: https://code.visualstudio.com/
-[github]: https://github.com/
 [git]: https://git-scm.com/
 [mongodb]: https://www.mongodb.com/
 [tensorflow]: https://www.tensorflow.org/
